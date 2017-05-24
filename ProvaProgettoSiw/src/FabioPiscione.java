@@ -13,6 +13,7 @@ public class FabioPiscione {
 	private static void FabioPiscione() {
 		// TODO Auto-generated method stub
 		System.out.println("DioPorco");
+		System.out.println("Bella");
 	}
 
 }
