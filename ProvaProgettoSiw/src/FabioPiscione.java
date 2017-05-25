@@ -14,6 +14,7 @@ public class FabioPiscione {
 		// TODO Auto-generated method stub
 		System.out.println("DioPorco");
 		System.out.println("Bella");
+		System.out.println("assoreta");
 	}
 
 }
